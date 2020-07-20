@@ -1,1 +1,4 @@
-star라는 파일
+star
+
+color: mint
+size: r=15m
